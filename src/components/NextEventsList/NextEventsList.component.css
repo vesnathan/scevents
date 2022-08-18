@@ -1,0 +1,28 @@
+.NextEventsListHolder {
+    width: 90%;
+    min-height: 350px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: top; 
+    float: right;
+}
+.NextEventsListHolder img {
+    height: 60px;
+    display: inline;
+    opacity: .3;
+    
+}
+.NextEventsListHeader {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.NextEventsListHolderIconHolder {
+    width: 100%;
+}
+.NextEventsListHolderHeaderText {
+    width: 100%;
+
+}

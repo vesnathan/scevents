@@ -1,0 +1,59 @@
+.ConcurrentSession {
+    width: 100%;
+    min-height: 50px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+.ConcurrentSession img {
+    height: 60px;
+    opacity: .3;
+}
+.ConcurrentSessionInfo {
+    color: #ffffff;
+    font-size: 15px;
+}
+.ConcurrentSessionIconHolder {
+    width: 100%;
+    
+}
+.ConcurrentSessionTextHolder {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    /*background: blue;*/
+
+}
+.ConcurrentSessionTextHolder p {
+    display: inline;
+}
+.ConcurrentSessionButtonHolder {
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    background: red;
+    position: relative;
+}
+
+.ConcurrentSessionButtonHolder  button {
+    border: none;
+    outline:none;
+    color: white;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 11.5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.hidden {
+    display: none;
+}
+

@@ -1,0 +1,243 @@
+<?php
+echo '
+{
+	"showName":                             "CSI: TASMANIA - TAF2021 LIVE and DIGITAL Festival",
+	"showId":                               "lGDFR72xan",
+	"createdByUserId":                      "1",
+	"createdByUserCompany":                 "Scene Change Tasmania",
+    "requireLogin":                         "true",
+	"dateAdded":                            "1604598831",
+	"showSubTitle":                         "An SOC Talk-Fest",
+	"showDescription":                      "Show 3 Description",
+	"showBackgroundImage":                  "PI8DCxkSus.jpg",
+	"navBarColor":                          "rgba(255, 255, 255, 1)",
+	"navBarBGColor":                        "rgba(96, 140, 96, 1)",
+	"dataRows": [
+        {   
+            "ID":                           "EwE0NLOJNj",
+            "displayOrder":                 "1",
+            "displayDiv":                   "1",
+            "rowType":                      "SponsorBanner",
+            "SponsorBannerTextColor":       "rgba(129, 129, 129,1)",
+            "SponsorBannerBGColor":         "rgba(255, 255, 255, .5)",
+            "inScroller":                   "false"
+        },
+        {
+            "ID":                           "jrxTRD0aOO",
+            "displayOrder":                 "1",
+            "displayDiv":                   "2",
+            "rowType":                      "AgendaMenu",
+            "AgendaMenuTextColor":          "rgba(129, 129, 129,1)",
+            "AgendaMenuBGColor":            "rgba(255, 255, 255, .5)",
+            "inScroller":                   "false"
+        },
+        {
+            "ID":                           "GIJfAyS8bS",
+            "displayOrder":                 "1",
+            "displayDiv":                   "3",
+            "rowType":                      "PlenarySession",
+            "PlenarySessionHeader":         "PLENARY 1: Class aptent taciti sociosqu ad litora torquent",
+            "PlenarySessionIcon":           "/events/images/icons/plenary.png",
+            "PlenarySessionInfo":           "10:00am - 11:00am",
+            "PlenarySessionTextColor":      "rgba(129, 129, 129,1)",
+            "PlenarySessionBGColor":        "rgba(255, 255, 255, .5)",
+            "PlenarySessionButtonBGColor":  "rgba(96, 140, 96, 1)",
+            "VidedoPageID":                 "6MRwKGe5VZ",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+
+
+
+
+		{
+			"ID":                           "tPrR1q6rAX",
+            "displayOrder":                 "2",
+            "displayDiv":                   "3",
+            "rowType":                      "PlenarySession",
+			"PlenarySessionHeader":         "PLENARY 2: At vero eos et accusamus et iusto odio dignissimos",
+			"PlenarySessionIcon":           "/events/images/icons/plenary.png",
+			"PlenarySessionInfo":           "11:00am - 12:00am",
+			"PlenarySessionTextColor":      "rgba(129, 129, 129,1)",
+			"PlenarySessionBGColor":        "rgba(255, 255, 255, .5)",
+			"PlenarySessionButtonBGColor":  "rgba(96, 140, 96, 1)",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+		},
+        {
+            "ID":                           "L8II6qViNM",
+            "displayOrder":                 "3", 
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentHeader",
+            "ConcurrentHeaderText":         "CONCURRENT 1: At vero eos et accusamus et iusto odio dignissimos", 
+            "ConcurrentHeaderIcon":         "/events/images/icons/concurrent.png", 
+            "ConcurrentHeaderBGColor":      "rgba(255, 255, 255, .8)", 
+            "ConcurrentHeaderTextColor":    "rgba(129, 129, 129,1)",  
+            "ConcurrentHeaderInfo":         "12:00pm - 1:00pm",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        {
+            "ID":                           "uuwjreP0G1",
+            "displayOrder":                 "4",
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentSession",
+            "HeaderId" :                    "L8II6qViNM",
+            "ConcurrentSessionText":        "STREAM 1: Iusto odio dignissimos",
+            "ConcurrentSessionBGColor":     "rgba(90, 153, 82, 1)",
+            "ConcurrentSessionTextColor":   "rgba(255, 255, 255, 1)",
+            "ConcurrentSessionButtonBG":    "rgba(96, 140, 96, 1)", 
+            "ConcurrentSessionLastOne":     "false",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        {                               
+            "ID":                           "lyUpyDCP9K",
+            "displayOrder":                 "5",
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentSession", 
+            "HeaderId" :                    "L8II6qViNM",
+            "ConcurrentSessionText":        "STREAM 2: Ad litora torquent", 
+            "ConcurrentSessionBGColor":     "rgba(73, 155, 62, 1)", 
+            "ConcurrentSessionTextColor":   "rgba(255, 255, 255, 1)",  
+            "ConcurrentSessionButtonBG":    "rgba(96, 140, 96, 1)", 
+            "ConcurrentSessionLastOne":     "false",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        { 
+            "ID":                           "1DrHRkVt9h",
+            "displayOrder":                 "6",
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentSession", 
+            "HeaderId" :                    "L8II6qViNM",
+            "ConcurrentSessionText":        "STREAM 3: Et iusto odio dignissimos", 
+            "ConcurrentSessionBGColor":     "rgba(67, 167, 54, 1)", 
+            "ConcurrentSessionTextColor":   "rgba(255, 255, 255, 1)", 
+            "ConcurrentSessionButtonBG":    "rgba(96, 140, 96, 1)", 
+            "ConcurrentSessionLastOne":     "false",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        { 
+            "ID":                           "y9p0w6QAg4",
+            "displayOrder":                 "7",
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentSession", 
+            "HeaderId" :                    "L8II6qViNM",
+            "ConcurrentSessionText":        "STREAM 4: Taciti sociosqu ad litora",  
+            "ConcurrentSessionBGColor":     "rgba(43, 165, 27, 1)", 
+            "ConcurrentSessionTextColor":   "rgba(255, 255, 255, 1)",  
+            "ConcurrentSessionButtonBG":    "rgba(96, 140, 96, 1)",  
+            "ConcurrentSessionLastOne":     "true",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        {
+            "ID":                           "NfOFRnUz0O",
+            "displayOrder":                 "8",
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentHeader",
+            "ConcurrentHeaderText":         "CONCURRENT 2: At vero eos et accusamus et iusto odio dignissimos",
+            "ConcurrentHeaderIcon":         "/events/images/icons/concurrent.png",
+            "ConcurrentHeaderBGColor":      "rgba(255, 255, 255, .8)",
+            "ConcurrentHeaderTextColor":    "rgba(129, 129, 129,1)",
+            "ConcurrentHeaderInfo":         "1:00pm - 2:00pm",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        { 
+            "ID":                           "wrdE8fltwQ", 
+            "displayOrder":                 "9",
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentSession",
+            "HeaderId" :                    "NfOFRnUz0O",
+            "ConcurrentSessionText":        "STREAM 1: Iusto odio dignissimos", 
+            "ConcurrentSessionBGColor":     "rgba(0, 102, 251, 1)",
+            "ConcurrentSessionTextColor":   "rgba(255, 255, 255, 1)",
+            "ConcurrentSessionButtonBG":    "rgba(0, 70, 176, 1)",   
+            "ConcurrentSessionLastOne":     "false",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        {                               
+            "ID":                           "H7frzbqJks",
+            "displayOrder":                 "10", 
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentSession",
+            "HeaderId" :                    "NfOFRnUz0O",
+            "ConcurrentSessionText":        "STREAM 2: Ad litora torquent", 
+            "ConcurrentSessionBGColor":     "rgba(49, 130, 252, 1)", 
+            "ConcurrentSessionTextColor":   "rgba(255, 255, 255, 1)", 
+            "ConcurrentSessionButtonBG":    "rgba(0, 70, 176, 1)", 
+            "ConcurrentSessionLastOne":     "false",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        {                               
+            "ID":                           "OnAwQmqzkL",
+            "displayOrder":                 "11",
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentSession",
+            "HeaderId" :                    "NfOFRnUz0O",
+            "ConcurrentSessionText":        "STREAM 3: Et iusto odio dignissimos", 
+            "ConcurrentSessionBGColor":     "rgba(108, 165, 251, 1)", 
+            "ConcurrentSessionTextColor":   "rgba(255, 255, 255, 1)", 
+            "ConcurrentSessionButtonBG":    "rgba(0, 70, 176, 1)", 
+            "ConcurrentSessionLastOne":     "false",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        { 
+            "ID":                           "JTJpJSgeJG",
+            "displayOrder":                 "12",
+            "displayDiv":                   "3",
+            "rowType":                      "ConcurrentSession", 
+            "HeaderId" :                    "NfOFRnUz0O",
+            "ConcurrentSessionText":        "STREAM 4: Taciti sociosqu ad litora", 
+            "ConcurrentSessionBGColor":     "rgba(159, 196, 251, 1)", 
+            "ConcurrentSessionTextColor":   "rgba(255, 255, 255, 1)",
+            "ConcurrentSessionButtonBG":    "rgba(0, 70, 176, 1)", 
+            "ConcurrentSessionLastOne":     "true",
+            "inScroller":                   "true",
+            "whichAgendaTab":               "1"
+        },
+        {
+            "ID":                           "k2ItothLv9",
+            "displayOrder":                 "13",
+            "displayDiv":                   "3",
+            "rowType":                      "PlenarySession",
+            "PlenarySessionHeader":         "PLENARY 3: At vero eos et accusamus et iusto odio dignissimos",
+            "PlenarySessionIcon":           "/events/images/icons/plenary.png",
+            "PlenarySessionInfo":           "2:00pm - 3:00pm",
+            "PlenarySessionTextColor":      "rgba(129, 129, 129,1)",
+            "PlenarySessionBGColor":        "rgba(255, 255, 255, .8)",                                   
+            "PlenarySessionButtonBGColor":  "rgba(96, 140, 96, 1)",
+            "inScroller":                   true,
+            "whichAgendaTab":               "1"
+        },
+        { 
+            "ID":                           "rezlN2XV9t",
+            "displayOrder":                 "1",
+            "displayDiv":                   "5",
+            "rowType":                      "NextEvents",
+            "NextEventsListIcon":           "BsCalendarWeek",
+            "NextEventsTextColor":          "rgba(129, 129, 129,1)",
+            "NextEventsBGColor":            "rgba(255, 255, 255, .7)",
+            "inScroller":                   "false"
+        },
+        { 
+            "ID":                           "TKMQhxbyoQ",
+            "displayOrder":                 "1",
+            "displayDiv":                   "6",
+            "rowType":                      "AddEvent",
+            "AddEventIcon":                 "BsCalendarPlus",
+            "AddEventTextColor":            "rgba(129, 129, 129,1)",
+            "AddEventBGColor":              "rgba(255, 255, 255, .7)", 
+            "AddEventButtonBG":             "rgba(96, 140, 96, 1)" ,
+            "inScroller":                   "false"
+        }
+    ]
+}
+';
+?>

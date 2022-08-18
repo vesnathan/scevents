@@ -1,0 +1,46 @@
+.ChatBoxHolder {
+    width: 90%;
+    min-height: 500px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: top;   
+    float: right;
+}
+.ChatBoxHolder img {
+    height: 60px;
+    opacity: .5;
+}
+
+.ChatBoxHolderHeader {
+    width: 100%;
+    display: flex;
+    align-items: top;
+}
+
+.ChatBoxIconHolder {
+    width: 100%;
+    
+}
+.ChatBoxHolderHeaderText {
+    width: 100%;
+
+}
+.ChatBoxHolderBodyText {
+    width: 100%;
+    margin-top: 20px;
+}
+.ChatBoxHolder  button {
+    border: none;
+    outline:none;
+    color: white;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11.5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+  }

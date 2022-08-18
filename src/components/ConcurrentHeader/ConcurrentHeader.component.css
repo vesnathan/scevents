@@ -1,0 +1,49 @@
+.ConcurrentHeader {
+    
+    width: 100%;
+    min-height: 100px;
+    border-radius: 5px 5px 0px 0px;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+.ConcurrentHeader img {
+    height: 60px;
+    opacity: .3;
+}
+.ConcurrentHeaderText {
+    font-size: 20px;
+}
+.ConcurrentHeaderInfo {
+    font-size: 15px;
+}
+.ConcurrentHeaderIconHolder {
+    width: 100%;
+    
+}
+.ConcurrentHeaderTextHolder {
+    width: 100%;
+
+}
+.ConcurrentHeaderTextHolder p {
+    display: inline;
+}
+.ConcurrentHeaderButtonHolder {
+    width: 100%;
+}
+
+.ConcurrentHeaderButtonHolder  button {
+    border: none;
+    outline:none;
+    color: white;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    /*display: inline-block;*/
+    font-size: 11.5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+  }
+

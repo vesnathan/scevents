@@ -1,0 +1,41 @@
+.AddEventHolder {
+    width: 90%;
+    min-height: 350px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: top; 
+    float: right;
+}
+.AddEventHolder img {
+    height: 60px;
+    display: inline;
+    opacity: .3;
+    
+}
+.AddEventHeader {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.AddEventHolderIconHolder {
+    width: 100%;
+}
+.AddEventHolderHeaderText {
+    width: 100%;
+
+}
+.AddEventHolder  button {
+    border: none;
+    outline:none;
+    color: white;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11.5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+  }

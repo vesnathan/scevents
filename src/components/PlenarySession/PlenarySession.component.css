@@ -1,0 +1,56 @@
+.PlenarySession {
+    
+    width: 100%;
+    min-height: 100px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+
+}
+.PlenarySession img {
+    height: 60px;
+    opacity: .3;
+}
+.PlenarySessionHeader {
+    font-size: 20px;
+}
+.PlenarySessionInfo {
+    font-size: 15px;
+}
+.PlenarySessionIconHolder {
+    width: 100%;
+    
+}
+.PlenarySessionTextHolder {
+    width: 100%;
+
+}
+.PlenarySessionTextHolder p {
+    display: inline;
+}
+.PlenarySessionButtonHolder {
+    position: relative;
+    width: 100%;
+}
+
+.PlenarySessionButtonHolder  button {
+    border: none;
+    outline:none;
+    color: white;
+    padding: 5px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 11.5px;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .hidden {
+      display: none;
+  }
+
